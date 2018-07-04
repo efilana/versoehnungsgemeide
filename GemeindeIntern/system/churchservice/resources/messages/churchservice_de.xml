@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+  <comment>ChurchService messages</comment>
+  <entry key="create.new.event">Neues Event anlegen</entry>
+  <entry key="workload">Auslastung</entry>
+  
+  <entry key="plan.of.services">Dienstplan</entry>
+  <entry key="absence">Abwesenheiten</entry>
+  <entry key="facts">Fakten</entry>
+  <entry key="agendas">Abläufe</entry>
+  <entry key="songs">Songs</entry>
+  
+  <entry key="my.filters">Meine Filter</entry>
+  <entry key="servicegroups">Dienstgruppen</entry>
+  <entry key="maintain.absence">Abwesenheit bearbeiten</entry>
+  <entry key="new.absence.for">Neue Abwesenheit für {0}</entry>
+  <entry key="save.absence">Abwesenheit eintragen</entry>
+  <entry key="already.entered.absence">Bereits eingetragene Abwesenheiten</entry>
+  <entry key="select.person.for.absence">Person für Abwesenheitspflege auswählen</entry>
+  <entry key="really.delete.absence">Abwesenheit wirklich entfernen?</entry>
+  
+  <entry key="viewall_yn">Ohne Berechtigung einsehbar</entry>
+  <entry key="color">Farbe</entry>  
+  
+</properties>

@@ -1,0 +1,2147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dispatch\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-10 09:22+0530\n"
+"PO-Revision-Date: 2018-06-10 09:22+0530\n"
+"Last-Translator: Jasin <jasins@wphoot.com>\n"
+"Language-Team: wpHoot <admin@wphoot.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop;translate_nooped_plural\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../header.php:16
+msgid "Skip to content"
+msgstr ""
+
+#: ../searchform.php:3
+#: ../searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: ../searchform.php:4
+msgid "Type Search Term &hellip;"
+msgstr ""
+
+#: ../sidebar-shop.php:23
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: ../sidebar-shop.php:25
+#, php-format
+msgid "Woocommerce pages have a separate sidebar than the rest of your site. You can add custom widgets from the %swidgets screen%s in wp-admin."
+msgstr ""
+
+#: ../sidebar.php:23
+msgid "Example Widget"
+msgstr ""
+
+#: ../sidebar.php:25
+#, php-format
+msgid "This is an example widget to show how the Primary sidebar looks by default. You can add custom widgets from the %swidgets screen%s in wp-admin."
+msgstr ""
+
+#: ../hoot/customizer/control-group.php:106
+msgid "Edit Group"
+msgstr ""
+
+#: ../hoot/customizer/control-group.php:251
+#: ../hoot/customizer/control-group.php:258
+#: ../hoot/customizer/control-icon.php:114
+#: ../hoot/customizer/control-icon.php:121
+msgid "Back"
+msgstr ""
+
+#: ../hoot/customizer/control-icon.php:63
+msgid "Select Icon"
+msgstr ""
+
+#: ../hoot/customizer/control-icon.php:64
+msgid "Remove Icon"
+msgstr ""
+
+#: ../hoot/customizer/control-preset-pattern.php:92
+msgid "Pattern"
+msgstr ""
+
+#: ../hoot/customizer/control-preset-pattern.php:92
+msgid "Custom Image"
+msgstr ""
+
+#: ../hoot/customizer/control-preset-pattern.php:278
+msgid "Select Pattern"
+msgstr ""
+
+#: ../hoot/customizer/control-sortlist.php:143
+msgid "Deactivate"
+msgstr ""
+
+#: ../hoot/extensions/loop-pagination.php:60
+msgid "&laquo; Previous"
+msgstr ""
+
+#: ../hoot/extensions/loop-pagination.php:61
+msgid "Next &raquo;"
+msgstr ""
+
+#: ../hoot/extensions/widgets.php:320
+msgid "Select Image"
+msgstr ""
+
+#: ../hoot/extensions/widgets.php:320
+msgid "Set Image"
+msgstr ""
+
+#: ../hoot/extensions/widgets.php:327
+msgid "Add Image"
+msgstr ""
+
+#: ../hoot/extensions/widgets.php:328
+msgid "Remove Image"
+msgstr ""
+
+#: ../hoot/extensions/widgets.php:361
+msgid "Add"
+msgstr ""
+
+#: ../hoot/extensions/widgets.php:370
+msgid "Group"
+msgstr ""
+
+#: ../hoot/includes/attr.php:203
+#, php-format
+msgid "%s Sidebar"
+msgstr ""
+
+#: ../hoot/includes/attr.php:231
+#, php-format
+msgid "%s Menu"
+msgstr ""
+
+#: ../hoot/includes/attr.php:445
+#: ../hoot/includes/attr.php:570
+msgid "l, F j, Y, g:i a"
+msgstr ""
+
+#: ../hoot/includes/enum.php:48
+msgid "No Repeat"
+msgstr ""
+
+#: ../hoot/includes/enum.php:49
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../hoot/includes/enum.php:50
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../hoot/includes/enum.php:51
+msgid "Repeat All"
+msgstr ""
+
+#: ../hoot/includes/enum.php:65
+msgid "Top Left"
+msgstr ""
+
+#: ../hoot/includes/enum.php:66
+msgid "Top Center"
+msgstr ""
+
+#: ../hoot/includes/enum.php:67
+msgid "Top Right"
+msgstr ""
+
+#: ../hoot/includes/enum.php:68
+msgid "Middle Left"
+msgstr ""
+
+#: ../hoot/includes/enum.php:69
+msgid "Middle Center"
+msgstr ""
+
+#: ../hoot/includes/enum.php:70
+msgid "Middle Right"
+msgstr ""
+
+#: ../hoot/includes/enum.php:71
+msgid "Bottom Left"
+msgstr ""
+
+#: ../hoot/includes/enum.php:72
+msgid "Bottom Center"
+msgstr ""
+
+#: ../hoot/includes/enum.php:73
+msgid "Bottom Right"
+msgstr ""
+
+#: ../hoot/includes/enum.php:87
+#: ../hoot/includes/enum.php:140
+msgid "Scroll Normally"
+msgstr ""
+
+#: ../hoot/includes/enum.php:88
+#: ../hoot/includes/enum.php:141
+msgid "Fixed in Place"
+msgstr ""
+
+#: ../hoot/includes/enum.php:102
+msgid "Predefined Pattern"
+msgstr ""
+
+#: ../hoot/includes/enum.php:231
+msgid "None"
+msgstr ""
+
+#: ../hoot/includes/enum.php:232
+msgid "Italic"
+msgstr ""
+
+#: ../hoot/includes/enum.php:233
+msgid "Bold"
+msgstr ""
+
+#: ../hoot/includes/enum.php:234
+msgid "Bold Italic"
+msgstr ""
+
+#: ../hoot/includes/enum.php:235
+msgid "Light"
+msgstr ""
+
+#: ../hoot/includes/enum.php:236
+msgid "Light Italic"
+msgstr ""
+
+#: ../hoot/includes/enum.php:237
+msgid "Uppercase"
+msgstr ""
+
+#: ../hoot/includes/enum.php:238
+msgid "Uppercase Italic"
+msgstr ""
+
+#: ../hoot/includes/enum.php:239
+msgid "Uppercase Bold"
+msgstr ""
+
+#: ../hoot/includes/enum.php:240
+msgid "Uppercase Bold Italic"
+msgstr ""
+
+#: ../hoot/includes/enum.php:241
+msgid "Uppercase Light"
+msgstr ""
+
+#: ../hoot/includes/enum.php:242
+msgid "Uppercase Light Italic"
+msgstr ""
+
+#: ../hoot/includes/enum.php:260
+msgid "Amazon"
+msgstr ""
+
+#: ../hoot/includes/enum.php:261
+msgid "Android"
+msgstr ""
+
+#: ../hoot/includes/enum.php:262
+msgid "Apple"
+msgstr ""
+
+#: ../hoot/includes/enum.php:263
+msgid "Bandcamp"
+msgstr ""
+
+#: ../hoot/includes/enum.php:264
+msgid "Behance"
+msgstr ""
+
+#: ../hoot/includes/enum.php:265
+msgid "Bitbucket"
+msgstr ""
+
+#: ../hoot/includes/enum.php:266
+msgid "BTC"
+msgstr ""
+
+#: ../hoot/includes/enum.php:267
+msgid "BuySellAds"
+msgstr ""
+
+#: ../hoot/includes/enum.php:268
+msgid "Codepen"
+msgstr ""
+
+#: ../hoot/includes/enum.php:269
+msgid "Codie Pie"
+msgstr ""
+
+#: ../hoot/includes/enum.php:270
+msgid "Contao"
+msgstr ""
+
+#: ../hoot/includes/enum.php:271
+msgid "Dash Cube"
+msgstr ""
+
+#: ../hoot/includes/enum.php:272
+msgid "Delicious"
+msgstr ""
+
+#: ../hoot/includes/enum.php:273
+msgid "Deviantart"
+msgstr ""
+
+#: ../hoot/includes/enum.php:274
+msgid "Digg"
+msgstr ""
+
+#: ../hoot/includes/enum.php:275
+msgid "Dribbble"
+msgstr ""
+
+#: ../hoot/includes/enum.php:276
+msgid "Dropbox"
+msgstr ""
+
+#: ../hoot/includes/enum.php:277
+msgid "Eercast"
+msgstr ""
+
+#: ../hoot/includes/enum.php:278
+msgid "Email"
+msgstr ""
+
+#: ../hoot/includes/enum.php:279
+msgid "Etsy"
+msgstr ""
+
+#: ../hoot/includes/enum.php:280
+msgid "Facebook"
+msgstr ""
+
+#: ../hoot/includes/enum.php:281
+msgid "Flickr"
+msgstr ""
+
+#: ../hoot/includes/enum.php:282
+msgid "Forumbee"
+msgstr ""
+
+#: ../hoot/includes/enum.php:283
+msgid "Foursquare"
+msgstr ""
+
+#: ../hoot/includes/enum.php:284
+msgid "Free Code Camp"
+msgstr ""
+
+#: ../hoot/includes/enum.php:285
+msgid "Pocket (getpocket)"
+msgstr ""
+
+#: ../hoot/includes/enum.php:286
+msgid "Github"
+msgstr ""
+
+#: ../hoot/includes/enum.php:287
+msgid "Google"
+msgstr ""
+
+#: ../hoot/includes/enum.php:288
+msgid "Google Plus"
+msgstr ""
+
+#: ../hoot/includes/enum.php:289
+msgid "Google Wallet"
+msgstr ""
+
+#: ../hoot/includes/enum.php:290
+msgid "IMDB"
+msgstr ""
+
+#: ../hoot/includes/enum.php:291
+msgid "Instagram"
+msgstr ""
+
+#: ../hoot/includes/enum.php:292
+msgid "JS Fiddle"
+msgstr ""
+
+#: ../hoot/includes/enum.php:293
+msgid "Last FM"
+msgstr ""
+
+#: ../hoot/includes/enum.php:294
+msgid "Leanpub"
+msgstr ""
+
+#: ../hoot/includes/enum.php:295
+msgid "Linkedin"
+msgstr ""
+
+#: ../hoot/includes/enum.php:296
+msgid "Meetup"
+msgstr ""
+
+#: ../hoot/includes/enum.php:297
+msgid "Mixcloud"
+msgstr ""
+
+#: ../hoot/includes/enum.php:298
+msgid "Paypal"
+msgstr ""
+
+#: ../hoot/includes/enum.php:299
+msgid "Pinterest"
+msgstr ""
+
+#: ../hoot/includes/enum.php:300
+msgid "Quora"
+msgstr ""
+
+#: ../hoot/includes/enum.php:301
+msgid "Reddit"
+msgstr ""
+
+#: ../hoot/includes/enum.php:302
+msgid "RSS"
+msgstr ""
+
+#: ../hoot/includes/enum.php:303
+msgid "Scribd"
+msgstr ""
+
+#: ../hoot/includes/enum.php:304
+msgid "Skype"
+msgstr ""
+
+#: ../hoot/includes/enum.php:305
+msgid "Slack"
+msgstr ""
+
+#: ../hoot/includes/enum.php:306
+msgid "Slideshare"
+msgstr ""
+
+#: ../hoot/includes/enum.php:307
+msgid "Snapchat"
+msgstr ""
+
+#: ../hoot/includes/enum.php:308
+msgid "Soundcloud"
+msgstr ""
+
+#: ../hoot/includes/enum.php:309
+msgid "Spotify"
+msgstr ""
+
+#: ../hoot/includes/enum.php:310
+msgid "Stack Exchange"
+msgstr ""
+
+#: ../hoot/includes/enum.php:311
+msgid "Stack Overflow"
+msgstr ""
+
+#: ../hoot/includes/enum.php:312
+msgid "Steam"
+msgstr ""
+
+#: ../hoot/includes/enum.php:313
+msgid "Stumbleupon"
+msgstr ""
+
+#: ../hoot/includes/enum.php:314
+msgid "Trello"
+msgstr ""
+
+#: ../hoot/includes/enum.php:315
+msgid "Trip Advisor"
+msgstr ""
+
+#: ../hoot/includes/enum.php:316
+msgid "Tumblr"
+msgstr ""
+
+#: ../hoot/includes/enum.php:317
+msgid "Twitch"
+msgstr ""
+
+#: ../hoot/includes/enum.php:318
+msgid "Twitter"
+msgstr ""
+
+#: ../hoot/includes/enum.php:319
+msgid "Viadeo"
+msgstr ""
+
+#: ../hoot/includes/enum.php:320
+msgid "Vimeo"
+msgstr ""
+
+#: ../hoot/includes/enum.php:321
+msgid "VK"
+msgstr ""
+
+#: ../hoot/includes/enum.php:322
+msgid "Wikipedia"
+msgstr ""
+
+#: ../hoot/includes/enum.php:323
+msgid "Windows"
+msgstr ""
+
+#: ../hoot/includes/enum.php:324
+msgid "Wordpress"
+msgstr ""
+
+#: ../hoot/includes/enum.php:325
+msgid "Xing"
+msgstr ""
+
+#: ../hoot/includes/enum.php:326
+msgid "Y Combinator"
+msgstr ""
+
+#: ../hoot/includes/enum.php:327
+msgid "Yelp"
+msgstr ""
+
+#: ../hoot/includes/enum.php:328
+msgid "Youtube"
+msgstr ""
+
+#: ../hoot/includes/head.php:160
+#, php-format
+msgid "%1$s Page %2$s"
+msgstr ""
+
+#: ../hoot/includes/icons.php:22
+msgid "Font Icons"
+msgstr ""
+
+#: ../hoot/includes/icons.php:23
+msgid "Brands"
+msgstr ""
+
+#: ../hoot/includes/media-meta.php:151
+#: ../hoot/includes/media-meta.php:281
+#: ../hoot/includes/template-media.php:96
+#, php-format
+msgid "%1$s &#215; %2$s"
+msgstr ""
+
+#: ../hoot/includes/media-meta.php:152
+#: ../hoot/includes/media-meta.php:281
+msgid "Dimensions"
+msgstr ""
+
+#: ../hoot/includes/media-meta.php:158
+msgid "Date"
+msgstr ""
+
+#: ../hoot/includes/media-meta.php:162
+msgid "Camera"
+msgstr ""
+
+#: ../hoot/includes/media-meta.php:166
+msgid "Aperture"
+msgstr ""
+
+#: ../hoot/includes/media-meta.php:171
+#, php-format
+msgid "%s mm"
+msgstr ""
+
+#: ../hoot/includes/media-meta.php:171
+msgid "Focal Length"
+msgstr ""
+
+#: ../hoot/includes/media-meta.php:177
+msgid "International Organization for Standardization"
+msgstr ""
+
+#: ../hoot/includes/media-meta.php:177
+msgid "ISO"
+msgstr ""
+
+#: ../hoot/includes/media-meta.php:198
+#, php-format
+msgid "%s sec"
+msgstr ""
+
+#: ../hoot/includes/media-meta.php:198
+msgid "Shutter Speed"
+msgstr ""
+
+#: ../hoot/includes/media-meta.php:247
+#: ../hoot/includes/media-meta.php:284
+msgid "File Name"
+msgstr ""
+
+#: ../hoot/includes/media-meta.php:255
+#: ../hoot/includes/media-meta.php:292
+msgid "File Type"
+msgstr ""
+
+#: ../hoot/includes/media.php:309
+msgid "File Size"
+msgstr ""
+
+#: ../hoot/includes/media.php:310
+msgid "Mime Type"
+msgstr ""
+
+#: ../hoot/includes/media.php:311
+msgid "Run Time"
+msgstr ""
+
+#: ../hoot/includes/media.php:316
+msgid "Genre"
+msgstr ""
+
+#: ../hoot/includes/media.php:317
+msgid "Year"
+msgstr ""
+
+#: ../hoot/includes/media.php:318
+msgid "Composer"
+msgstr ""
+
+#: ../hoot/includes/media.php:319
+msgid "Track"
+msgstr ""
+
+#: ../hoot/includes/media.php:322
+msgid "Lyrics"
+msgstr ""
+
+#: ../hoot/includes/template-general.php:52
+msgid "State-of-the-art semantic personal publishing platform"
+msgstr ""
+
+#: ../hoot/includes/template-general.php:52
+msgid "WordPress"
+msgstr ""
+
+#: ../hoot/includes/template-general.php:84
+#: ../hoot/includes/template-general.php:86
+#: ../hoot/includes/template-general.php:122
+#, php-format
+msgid "%s WordPress Theme"
+msgstr ""
+
+#: ../hoot/includes/template-general.php:248
+#, php-format
+msgid "(Page %s)"
+msgstr ""
+
+#: ../hoot/includes/template-general.php:296
+#, php-format
+msgid "You are browsing the search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: ../hoot/includes/template-general.php:304
+msgid "You are browsing the site archives by time."
+msgstr ""
+
+#: ../hoot/includes/template-general.php:307
+#: ../hoot/includes/template-general.php:310
+#: ../hoot/includes/template-general.php:313
+#, php-format
+msgid "You are browsing the site archives for %s."
+msgstr ""
+
+#: ../hoot/includes/template-general.php:316
+msgid "You are browsing the site archives."
+msgstr ""
+
+#: ../hoot/includes/template-general.php:332
+msgid "Archives"
+msgstr ""
+
+#: ../hoot/includes/template-general.php:370
+#: ../hoot/includes/template-general.php:390
+msgid "Y"
+msgstr ""
+
+#: ../hoot/includes/template-general.php:390
+#, php-format
+msgid "Week %1$s of %2$s"
+msgstr ""
+
+#: ../hoot/includes/template-general.php:390
+msgid "W"
+msgstr ""
+
+#: ../hoot/includes/template-general.php:409
+msgid "F j, Y"
+msgstr ""
+
+#: ../hoot/includes/template-general.php:428
+msgid "g a"
+msgstr ""
+
+#: ../hoot/includes/template-general.php:448
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: ../hoot/includes/template-general.php:448
+msgid "i"
+msgstr ""
+
+#: ../hoot/includes/template-general.php:467
+msgid "g:i a"
+msgstr ""
+
+#: ../hoot/includes/template-general.php:488
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: ../hoot/includes/template-general.php:508
+msgid "404 Not Found"
+msgstr ""
+
+#: ../hoot/includes/template-general.php:526
+msgid "queries."
+msgstr ""
+
+#: ../hoot/includes/template-general.php:528
+msgid "seconds."
+msgstr ""
+
+#: ../hoot/includes/template-post.php:141
+msgid ", "
+msgstr ""
+
+#: ../hoot/includes/utility.php:52
+msgid "(Untitled)"
+msgstr ""
+
+#: ../hoot-theme/fonts.php:29
+#: ../hoot-theme/fonts.php:35
+msgid "on"
+msgstr ""
+
+#: ../hoot-theme/hoot-theme.php:238
+#, php-format
+msgid "Read More %s"
+msgstr ""
+
+#: ../hoot-theme/media.php:35
+msgid "Small Preview"
+msgstr ""
+
+#: ../hoot-theme/media.php:43
+msgid "Large Preview"
+msgstr ""
+
+#: ../hoot-theme/media.php:51
+msgid "Medium Preview"
+msgstr ""
+
+#: ../hoot-theme/media.php:59
+msgid "Wide"
+msgstr ""
+
+#: ../hoot-theme/media.php:67
+msgid "Extra Wide"
+msgstr ""
+
+#: ../hoot-theme/media.php:75
+msgid "Boxcontent Image"
+msgstr ""
+
+#: ../hoot-theme/menus.php:22
+msgid "Primary Navigation"
+msgstr ""
+
+#: ../hoot-theme/sidebars.php:32
+msgid "Primary Sidebar"
+msgstr ""
+
+#: ../hoot-theme/sidebars.php:33
+msgid "The main sidebar throughout the site."
+msgstr ""
+
+#: ../hoot-theme/sidebars.php:41
+msgid "Topbar Left"
+msgstr ""
+
+#: ../hoot-theme/sidebars.php:42
+#: ../hoot-theme/sidebars.php:51
+msgid "Leave empty if you dont want to show topbar."
+msgstr ""
+
+#: ../hoot-theme/sidebars.php:50
+msgid "Topbar Right"
+msgstr ""
+
+#: ../hoot-theme/sidebars.php:59
+msgid "Sub Footer"
+msgstr ""
+
+#: ../hoot-theme/sidebars.php:60
+msgid "Leave empty if you dont want to show subfooter."
+msgstr ""
+
+#: ../hoot-theme/sidebars.php:74
+#, php-format
+msgid "Footer %s"
+msgstr ""
+
+#: ../hoot-theme/sidebars.php:75
+msgid "You can set footer columns in Theme Options page."
+msgstr ""
+
+#: ../hoot-theme/sidebars.php:99
+msgid "Left"
+msgstr ""
+
+#: ../hoot-theme/sidebars.php:100
+msgid "Center Left"
+msgstr ""
+
+#: ../hoot-theme/sidebars.php:101
+msgid "Center"
+msgstr ""
+
+#: ../hoot-theme/sidebars.php:102
+msgid "Center Right"
+msgstr ""
+
+#: ../hoot-theme/sidebars.php:103
+msgid "Right"
+msgstr ""
+
+#: ../hoot-theme/sidebars.php:131
+#, php-format
+msgid "Widgetized Template - Area %s %s"
+msgstr ""
+
+#: ../hoot-theme/sidebars.php:142
+msgid "You can order Widgetized Template areas in Customizer > 'Content' panel > 'Widgetized Template - Modules' section."
+msgstr ""
+
+#: ../hoot-theme/template-helpers.php:174
+#, php-format
+msgid "You are using an outdated browser (IE 8 or before). For a better user experience, we recommend %1supgrading your browser today%2s or %3sinstalling Google Chrome Frame%4s"
+msgstr ""
+
+#: ../hoot-theme/template-helpers.php:312
+msgid "By:"
+msgstr ""
+
+#: ../hoot-theme/template-helpers.php:319
+msgid "On:"
+msgstr ""
+
+#: ../hoot-theme/template-helpers.php:326
+msgid "In:"
+msgstr ""
+
+#: ../hoot-theme/template-helpers.php:332
+msgid "Tagged:"
+msgstr ""
+
+#: ../hoot-theme/template-helpers.php:333
+msgid "No Tags"
+msgstr ""
+
+#: ../hoot-theme/template-helpers.php:337
+msgid "With:"
+msgstr ""
+
+#: ../hoot-theme/template-helpers.php:339
+msgid "0 Comments"
+msgstr ""
+
+#: ../hoot-theme/template-helpers.php:340
+msgid "1 Comment"
+msgstr ""
+
+#: ../hoot-theme/template-helpers.php:341
+msgid "% Comments"
+msgstr ""
+
+#: ../hoot-theme/template-helpers.php:347
+msgid "Edit This"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:74
+msgid "Demo / Support"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:83
+msgid "Demo"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:85
+msgid "Demo the theme features and options with sample content."
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:91
+msgid "Documentation / Support"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:93
+msgid "Get theme related support for both free and premium users."
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:99
+msgid "Rate Us"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:101
+msgid "If you are happy with the theme, give us a 5 star rating on wordpress.org"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:117
+msgid "Setup &amp; Layout"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:121
+msgid "Site Layout - Boxed vs Stretched"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:125
+msgid "Boxed layout"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:126
+msgid "Stretched layout (full width)"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:129
+msgid "For boxed layouts, both backgrounds (site and content box) can be set in the 'Backgrounds' section.<br />For Stretched Layout, only site background is available."
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:133
+msgid "Max. Site Width (pixels)"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:137
+msgid "1260px (wide)"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:138
+msgid "1080px (standard)"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:144
+msgid "Mobile Menu"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:148
+msgid "Inline - Menu Slide Downs to open"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:149
+msgid "Fixed - Menu opens on the left"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:156
+msgid "[Mobile Menu] Submenu opens on 'Click'"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:161
+msgid "Uncheck this option to make all Submenus appear in 'Open' state. By default, submenus open on clicking (i.e. single tap on mobile)."
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:165
+msgid "Load Minified Styles and Scripts (when available)"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:166
+msgid "Checking this option reduces data size, hence increasing page load speed."
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:173
+msgid "Multiple Sidebars"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:176
+#, php-format
+msgid "This theme can display different sidebar content on different pages of your site with the %1sCustom Sidebars%2s plugin. Simply install and activate the plugin to use it with this theme. Or if you are using %3sJetpack%4s, you can use the %5s\"Widget Visibility\"%6s module."
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:180
+msgid "Sidebar Layout (Site-wide)"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:191
+msgid "Set the default sidebar width and position for your entire site."
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:195
+msgid "Sidebar Layout (for Pages)"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:206
+msgid "Set the default sidebar width and position for pages."
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:210
+msgid "Sidebar Layout (for single Posts)"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:221
+msgid "Set the default sidebar width and position for single posts."
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:229
+msgid "Logo"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:233
+msgid "Site Logo"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:237
+msgid "Default Text (Site Title)"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:238
+msgid "Image Logo"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:239
+msgid "Image &amp; Default Text (Site Title)"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:242
+#, php-format
+msgid "Use %sSite Title%s as default text logo"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:246
+msgid "Logo Size"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:251
+msgid "Tiny"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:252
+msgid "Small"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:253
+msgid "Medium"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:254
+msgid "Large"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:255
+msgid "Huge"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:262
+msgid "Site Title Icon (Optional)"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:266
+msgid "Leave empty to hide icon."
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:271
+msgid "Site Title Icon Size"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:281
+msgid "Upload Logo"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:289
+msgid "Maximum Logo Width"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:294
+msgid "(in pixels)<hr>The logo width may be automatically adjusted by the browser depending on title length and space available."
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:298
+msgid "(in pixels)"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:304
+msgid "Show Tagline"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:305
+msgid "Display site description as tagline below logo."
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:318
+msgid "Colors"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:319
+msgid "Control various color options in the premium version for fonts, backgrounds, contrast, highlight, accent etc."
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:323
+msgid "Accent Color"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:330
+msgid "Font Color on Accent Color"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:338
+msgid "Woocommerce Styling"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:342
+#, php-format
+msgid "Looks like you are using Woocommerce. Install %sthis plugin%s to change colors and styles for WooCommerce elements like buttons etc."
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:351
+msgid "Backgrounds"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:352
+msgid "The premium version comes with background options for different sections of your site like header, menu dropdown, content area, logo background, footer etc."
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:356
+msgid "Site Background"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:366
+msgid "Content Box Background"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:373
+msgid "This background is available only when <strong>Site Layout</strong> option is set to <strong>'Boxed'</strong> in the <strong>'Setup &amp; Layout'</strong> section."
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:384
+msgid "Widgetized Template - Modules"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:385
+#, php-format
+msgid "<strong>How to use this template</strong><p>'Widgetized Template' is a special Page Template which is often used as a quick way to create a Front Page.</p><ol><li>Create a %sNew Page%s. In the <strong>'Page Attributes'</strong> option box select the <strong>'Widgetized Template'</strong> in the <strong>'Template'</strong> dropdown.</li><li>Goto %sSetting > Reading%s menu. In the <strong>'Front page displays'</strong> option, select <strong>'A static page'</strong> and select the page you created in previous step.</li></ol>"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:390
+msgid "Highlight Background"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:394
+msgid "Columns"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:397
+msgid "One Column [100]"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:398
+msgid "Two Columns [50 50]"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:399
+msgid "Two Columns [33 66]"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:400
+msgid "Two Columns [66 33]"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:401
+msgid "Two Columns [25 75]"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:402
+msgid "Two Columns [75 25]"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:403
+msgid "Three Columns [33 33 33]"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:404
+msgid "Three Columns [25 25 50]"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:405
+msgid "Three Columns [25 50 25]"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:406
+msgid "Three Columns [50 25 25]"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:407
+msgid "Four Columns [25 25 25 25]"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:413
+msgid "Widget Areas Order"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:414
+#, php-format
+msgid "<p></p><ul><li>Sort different sections of the 'Widgetized Template' in the order you want them to appear.</li><li>You can add content to widget areas from the %sWidgets Management screen%s.</li><li>You can disable areas by clicking the 'eye' icon. (This will hide them on the Widgets screen as well)</li><li>'Page Content' is the actual content of the page on which this template is applied. This can be used in special situations for creating extra customizable content.</li></ul>"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:418
+msgid "HTML Slider"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:419
+msgid "Image Slider"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:420
+msgid "Widget Area A"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:421
+msgid "Widget Area B"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:422
+msgid "Widget Area C"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:423
+msgid "Widget Area D"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:424
+msgid "Widget Area E"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:425
+msgid "Page Content Area"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:426
+msgid "Blog"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:441
+msgid "Highlighted Background"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:445
+msgid "Title (optional)"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:461
+msgid "Widgetized Template - HTML Slider"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:465
+#: ../hoot-theme/admin/customizer-options.php:542
+msgid "Slider Width"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:466
+#: ../hoot-theme/admin/customizer-options.php:543
+msgid "Note: This option is useful only if the <strong>Site Layout</strong> option is set to <strong>Stretched</strong> in 'Setup &amp; Layout' section."
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:477
+#: ../hoot-theme/admin/customizer-options.php:554
+msgid "Slides"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:481
+#: ../hoot-theme/admin/customizer-options.php:558
+msgid "Premium version of this theme comes with capability to create <strong>Unlimited slides</strong>."
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:487
+#: ../hoot-theme/admin/customizer-options.php:496
+#: ../hoot-theme/admin/customizer-options.php:573
+#, php-format
+msgid "Slide %s Content"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:491
+#: ../hoot-theme/admin/customizer-options.php:568
+#, php-format
+msgid "Edit Slide %s"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:496
+msgid "<em>To hide this slide, simply leave the slide fields empty.</em>"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:499
+#: ../hoot-theme/admin/customizer-options.php:576
+msgid "Slide Image"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:503
+msgid "Title"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:507
+msgid "Content"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:511
+msgid "Link Text"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:515
+msgid "Link URL"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:517
+msgid "Leave empty if you do not want to show the link."
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:523
+msgid "Slide Background"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:525
+msgid "This can be useful if you are using transparent images"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:538
+msgid "Widgetized Template - Image Slider"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:573
+msgid "<em>To hide this slide, simply leave the Image empty.</em>"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:578
+msgid "The main showcase image."
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:581
+msgid "Slide Caption (optional)"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:585
+msgid "Slide Link"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:587
+msgid "Leave empty if you do not want to link the slide."
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:604
+msgid "Archives (Blog, Cats, Tags)"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:608
+msgid "Post Items Content"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:613
+msgid "Post Excerpt"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:614
+msgid "Full Post Content"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:617
+msgid "Content to display for each post in the list"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:621
+msgid "Meta Information for Post List Items"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:622
+msgid "Check which meta information to display for each post item in the archive list."
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:626
+#: ../hoot-theme/admin/customizer-options.php:679
+#: ../hoot-theme/admin/customizer-options.php:694
+msgid "Author"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:628
+#: ../hoot-theme/admin/customizer-options.php:681
+msgid "Categories"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:629
+#: ../hoot-theme/admin/customizer-options.php:682
+msgid "Tags"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:630
+#: ../hoot-theme/admin/customizer-options.php:683
+#: ../hoot-theme/admin/customizer-options.php:696
+msgid "No. of comments"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:636
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:639
+msgid "Number of words in excerpt. Default is 105. Leave empty if you dont want to change it."
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:643
+msgid "default: 105"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:648
+msgid "'Read More' Text"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:651
+msgid "Replace the default 'Read More' text. Leave empty if you dont want to change it."
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:653
+msgid "default: READ MORE &rarr;"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:662
+msgid "Single (Posts, Pages)"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:666
+msgid "Display Featured Image"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:667
+msgid "Display featured image at the beginning of post/page content."
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:674
+msgid "Meta Information on Posts"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:675
+msgid "Check which meta information to display on an individual 'Post' page"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:689
+msgid "Meta Information on Page"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:690
+msgid "Check which meta information to display on an individual 'Page' page"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:702
+msgid "Meta Information location"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:706
+msgid "Top (below title)"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:707
+msgid "Bottom (after content)"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:713
+msgid "Previous/Next Posts"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:714
+msgid "Display links to Prev/Next Post links at the end of post content."
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:721
+msgid "Contact Form"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:724
+#, php-format
+msgid "This theme comes bundled with CSS required to style %sContact-Form-7%s forms. Simply install and activate the plugin to add Contact Forms to your pages."
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:734
+msgid "WooCommerce"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:742
+msgid "Total Products per page"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:748
+msgid "Total number of products to show on the Shop page"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:752
+msgid "Product Columns"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:763
+msgid "Number of products to show in 1 row on the Shop page"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:767
+msgid "Sidebar Layout (Woocommerce Shop/Archives)"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:779
+msgid "Set the default sidebar width and position for WooCommerce shop and archives pages like product categories etc."
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:783
+msgid "Sidebar Layout (Woocommerce Single Product Page)"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:795
+msgid "Set the default sidebar width and position for WooCommerce product pages"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:805
+msgid "Footer"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:809
+msgid "Footer Layout"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:824
+#, php-format
+msgid "You must first save the changes you make here and refresh this screen for footer columns to appear in the Widgets panel (in customizer).<hr> Once you save the settings here, you can add content to footer columns using the %sWidgets Management screen%s."
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:828
+msgid "Site Info Text (footer)"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:831
+msgid "<!--default-->"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:832
+#, php-format
+msgid "Text shown in footer. Useful for showing copyright info etc.<hr>Use the <code>&lt;!--default--&gt;</code> tag to show the default Info Text.<hr>Use the <code>&lt;!--year--&gt;</code> tag to insert the current year.<hr>Always use %sHTML codes%s for symbols. For example, the HTML for &copy; is <code>&amp;copy;</code>"
+msgstr ""
+
+#: ../hoot-theme/admin/customizer-options.php:881
+msgid "Premium"
+msgstr ""
+
+#: ../hoot-theme/admin/migration.php:99
+#, php-format
+msgid "Thank you for updating the theme. This version uses the new Hoot 2.0 framework.<br />You will find substantial changes in the new theme. %sClick here%s for support regarding migration to the new version."
+msgstr ""
+
+#: ../hoot-theme/admin/migration.php:99
+msgid "Dismiss"
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:13
+msgid "Click here to know more"
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:14
+msgid "Buy Dispatch Premium"
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:15
+msgid "View Demo Site"
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:20
+msgid "Upgrade to <span>Dispatch <strong>Premium</strong></span>"
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:21
+msgid "If you've enjoyed using Dispatch, you're going to love <strong>Dispatch Premium</strong>.<br>It's a robust upgrade to Dispatch that gives you many useful features."
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:25
+msgid "Complete <br />Style <strong>Customization</strong>"
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:26
+msgid "Different looks and styles. Choose from an extensive range of customization features in Dispatch Premium to setup your own unique front page. Give youe site the personality it deserves."
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:32
+msgid "Unlimited Colors"
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:33
+msgid "Dispatch Premium lets you select unlimited colors for different sections of your site. Select pre-existing backgrounds for site sections like header, footer etc. or upload your own background images/patterns."
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:38
+msgid "Fonts and <span>Typography Control</span>"
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:39
+msgid "Assign different typography (fonts, text size, font color) to menu, topbar, logo, content headings, sidebar, footer etc."
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:44
+msgid "Unlimites Sliders, Unlimites Slides"
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:45
+msgid "Dispatch Premium allows you to create unlimited sliders with as many slides as you need.<hr>You can use these sliders on your Homepage widgetized template, or add them anywhere using shortcodes - like in your Posts, Sidebars or Footer."
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:50
+msgid "600+ Google Fonts"
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:51
+msgid "With the integrated Google Fonts library, you can find the fonts that match your site's personality, and there's over 600 options to choose from."
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:56
+msgid "Shortcodes with <span>Easy Generator</span>"
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:57
+msgid "Enjoy the flexibility of using shortcodes throughout your site with Dispatch premium. These shortcodes were specially designed for this theme and are very well integrated into the code to reduce loading times, thereby maximizing performance!<hr>Use shortcodes to insert buttons, sliders, tabs, toggles, columns, breaks, icons, lists, and a lot more design and layout modules.<hr>The intuitive Shortcode Generator has been built right into the Edit screen, so you dont have to hunt for shortcode syntax."
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:62
+msgid "Image Carousels"
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:63
+msgid "Add carousels to your post, in your sidebar, on your frontpage or in your footer. A simple drag and drop interface allows you to easily create and manage carousels."
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:68
+msgid "Floating <br /><span>'Sticky' Header</span> &amp; <span>'Goto Top'</span> button (optional)"
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:69
+msgid "The floating header follows the user down your page as they scroll, which means they never have to scroll back up to access your navigation menu, improving user experience.<hr>Or, use the 'Goto Top' button appears on the screen when users scroll down your page, giving them a quick way to go back to the top of the page."
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:74
+msgid "3 Blog Layouts (including pinterest <span>type mosaic)</span>"
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:75
+msgid "Dispatch Premium gives you the option to display your post archives in 3 different layouts including a mosaic type layout similar to pinterest."
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:80
+msgid "Custom Widgets"
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:81
+msgid "Custom widgets crafted and designed specifically for Dispatch Premium Theme to give you the flexibility of adding stylized content."
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:86
+msgid "Menu Icons"
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:87
+msgid "Select from over 500 icons for your main navigation menu links."
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:92
+msgid "Premium Background Patterns (CC0)"
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:93
+msgid "Dispatch Premium comes with many additional premium background patterns. You can always upload your own background image/pattern to match your site design."
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:98
+msgid "Automatic Image Lightbox and <span>WordPress Gallery</span>"
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:99
+msgid "Automatically open image links on your site with the integrates lightbox in Dispatch Premium.<hr>Automatically convert standard WordPress galleries to beautiful lightbox gallery slider."
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:104
+msgid "Developers <br />love {LESS}"
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:105
+msgid "CSS is passe. Developers love the modularity and ease of using LESS, which is why Dispatch Premium comes with properly organized LESS files for the main stylesheet."
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:110
+msgid "Easy Import/Export"
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:111
+msgid "Moving to a new host? Or applying a new child theme? Easily import/export your customizer settings with just a few clicks - right from the backend."
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:119
+msgid "Custom Javascript &amp; <span>Google Analytics</span>"
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:120
+msgid "Easily insert any javascript snippet to your header without modifying the code files. This helps in adding scripts for Google Analytics, Adsense or any other custom code."
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:124
+msgid "Continued <br />Updates"
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:125
+msgid "You will help support the continued development of Dispatch - ensuring it works with future versions of WordPress for years to come."
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:132
+msgid "Premium <br />Priority Support"
+msgstr ""
+
+#: ../hoot-theme/admin/premium.php:133
+msgid "Need help setting up Dispatch? Upgrading to Dispatch Premium gives you prioritized support. We have a growing support team ready to help you with your questions.<hr>Need small modifications? If you are not a developer yourself, you can count on our support staff to help you with CSS snippets to get the look you're after."
+msgstr ""
+
+#: ../hoot-theme/admin/upsell.php:29
+msgid "Dispatch Premium"
+msgstr ""
+
+#: ../hoot-theme/admin/upsell.php:30
+msgid "Premium Options"
+msgstr ""
+
+#: ../hoot-theme/admin/upsell.php:64
+msgid "Click here"
+msgstr ""
+
+#: ../hoot-theme/admin/upsell.php:68
+msgid "Upgrade to Premium"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:18
+msgid "Hoot > Content Blocks (Pages)"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:20
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:20
+msgid "Display Styled Content Blocks."
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:32
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:32
+msgid "Blocks Style"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:44
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:51
+msgid "No. Of Columns"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:49
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:56
+msgid "1"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:50
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:57
+msgid "2"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:51
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:58
+msgid "3"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:52
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:59
+msgid "4"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:53
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:60
+msgid "5"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:57
+msgid "Icon Style"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:58
+msgid "Not applicable if 'Featured Image' is seected below."
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:64
+msgid "Circle"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:65
+msgid "Square"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:69
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:124
+#: ../hoot-theme/admin/widget-cta.php:51
+msgid "Border"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:70
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:125
+#: ../hoot-theme/admin/widget-cta.php:52
+msgid "Top and bottom borders."
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:75
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:130
+#: ../hoot-theme/admin/widget-cta.php:57
+msgid "Top - Line || Bottom - Line"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:76
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:131
+#: ../hoot-theme/admin/widget-cta.php:58
+msgid "Top - Line || Bottom - StrongDash"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:77
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:132
+#: ../hoot-theme/admin/widget-cta.php:59
+msgid "Top - Line || Bottom - None"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:78
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:133
+#: ../hoot-theme/admin/widget-cta.php:60
+msgid "Top - StrongDash || Bottom - Line"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:79
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:134
+#: ../hoot-theme/admin/widget-cta.php:61
+msgid "Top - StrongDash || Bottom - StrongDash"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:80
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:135
+#: ../hoot-theme/admin/widget-cta.php:62
+msgid "Top - StrongDash || Bottom - None"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:81
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:136
+#: ../hoot-theme/admin/widget-cta.php:63
+msgid "Top - None || Bottom - Line"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:82
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:137
+#: ../hoot-theme/admin/widget-cta.php:64
+msgid "Top - None || Bottom - StrongDash"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:83
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:138
+#: ../hoot-theme/admin/widget-cta.php:65
+msgid "Top - None || Bottom - None"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:87
+msgid "Use 'Featured Image' of page instead of icons."
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:97
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:110
+msgid "Display Excerpt"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:98
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:111
+msgid "Display Full Content"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:103
+msgid "Content Boxes"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:107
+msgid "Content Box"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:111
+#: ../hoot-theme/admin/widget-social-icons.php:48
+msgid "Icon"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:112
+msgid "Not applicable if 'Featured Image' is selected above."
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:116
+msgid "Page"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:122
+msgid "Link Text (optional)"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:126
+msgid "Link URL (optional)"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:133
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:142
+#: ../hoot-theme/admin/widget-cta.php:69
+#: ../hoot-theme/admin/widget-social-icons.php:66
+msgid "Widget CSS"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:138
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:147
+#: ../hoot-theme/admin/widget-cta.php:74
+#: ../hoot-theme/admin/widget-social-icons.php:71
+msgid "Custom CSS Class"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:139
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:148
+#: ../hoot-theme/admin/widget-cta.php:75
+#: ../hoot-theme/admin/widget-social-icons.php:72
+msgid "Give this widget a custom css classname"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:144
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:153
+#: ../hoot-theme/admin/widget-cta.php:80
+#: ../hoot-theme/admin/widget-social-icons.php:77
+msgid "Margin Top"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:145
+#: ../hoot-theme/admin/widget-content-blocks.php:153
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:154
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:162
+#: ../hoot-theme/admin/widget-cta.php:81
+#: ../hoot-theme/admin/widget-cta.php:89
+#: ../hoot-theme/admin/widget-social-icons.php:78
+#: ../hoot-theme/admin/widget-social-icons.php:86
+msgid "(in pixels) Leave empty to load default margins"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:152
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:161
+#: ../hoot-theme/admin/widget-cta.php:88
+#: ../hoot-theme/admin/widget-social-icons.php:85
+msgid "Margin Bottom"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:160
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:169
+#: ../hoot-theme/admin/widget-cta.php:96
+#: ../hoot-theme/admin/widget-social-icons.php:93
+msgid "Widget ID"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-blocks.php:162
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:171
+#: ../hoot-theme/admin/widget-cta.php:98
+#: ../hoot-theme/admin/widget-social-icons.php:95
+msgid "Save this widget to view its ID"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:18
+msgid "Hoot > Content Blocks (Posts)"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:44
+msgid "Category (Optional)"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:45
+msgid "Leave empty to display posts from all categories."
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:64
+msgid "Number of Posts to show"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:65
+msgid "Default: 4"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:72
+msgid "Offset"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:73
+msgid "Number of posts to skip from the start. Leave empty to start from the latest post."
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:80
+msgid "Show Author"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:85
+msgid "Show Post Date"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:90
+msgid "Show number of comments"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:95
+msgid "Show categories"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:100
+msgid "Show tags"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:116
+msgid "Custom Excerpt Length"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-content-posts-blocks.php:117
+msgid "Leave empty to use the automatically created excerpts."
+msgstr ""
+
+#: ../hoot-theme/admin/widget-cta.php:18
+msgid "Hoot > Call To Action"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-cta.php:20
+msgid "Display Call To Action block."
+msgstr ""
+
+#: ../hoot-theme/admin/widget-cta.php:27
+msgid "Headline"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-cta.php:32
+msgid "Description"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-cta.php:37
+msgid "Button Text"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-cta.php:38
+#: ../hoot-theme/admin/widget-cta.php:45
+msgid "Leave empty if you dont want to show button"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-cta.php:41
+msgid "KNOW MORE"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-cta.php:44
+msgid "URL"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-social-icons.php:18
+msgid "Hoot > Social Icons"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-social-icons.php:20
+msgid "Display Social Icons"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-social-icons.php:32
+msgid "Icon Size"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-social-icons.php:44
+msgid "Social Icons"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-social-icons.php:52
+msgid "Social Icon"
+msgstr ""
+
+#: ../hoot-theme/admin/widget-social-icons.php:58
+msgid "URL (enter username for Skype, email address for Email)"
+msgstr ""
+
+#: ../template-parts/comment-ping.php:7
+#: ../template-parts/comment.php:23
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: ../template-parts/comment-ping.php:10
+#: ../template-parts/comment.php:26
+msgid "Permalink"
+msgstr ""
+
+#: ../template-parts/comments-error.php:6
+#, php-format
+msgid "Comments are closed, but %strackbacks%s and pingbacks are open."
+msgstr ""
+
+#: ../template-parts/comments-error.php:13
+msgid "Comments are closed."
+msgstr ""
+
+#: ../template-parts/comments-nav.php:5
+msgid "Comments Navigation"
+msgstr ""
+
+#: ../template-parts/comments-nav.php:7
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../template-parts/comments-nav.php:11
+#, php-format
+msgid "Page %1$s of %2$s"
+msgstr ""
+
+#: ../template-parts/comments-nav.php:14
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../template-parts/content-archive.php:22
+msgid "Sticky"
+msgstr ""
+
+#: ../template-parts/error.php:4
+msgid "Nothing found"
+msgstr ""
+
+#: ../template-parts/error.php:8
+msgid "Apologies, but no entries were found."
+msgstr ""
+
+#: ../template-parts/footer-postfooter.php:14
+#, php-format
+msgid "Designed using %1$s. Powered by %2$s."
+msgstr ""
+
+#: ../template-parts/loop-nav.php:9
+msgid "Previous Post: %link"
+msgstr ""
+
+#: ../template-parts/loop-nav.php:10
+msgid "Next Post: %link"
+msgstr ""
+
+#: ../template-parts/menu-primary.php:9
+msgid "Primary Navigation Menu"
+msgstr ""
+
+#: ../template-parts/menu-primary.php:11
+msgid "Menu"
+msgstr ""
+
+#: ../template-parts/slider-html.php:40
+msgid "Know More"
+msgstr ""
+
+#: ../woocommerce/functions.php:49
+msgid "The primary sidebar for woocommerce pages"
+msgstr ""
+

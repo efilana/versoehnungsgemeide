@@ -1,0 +1,24 @@
+; $Id$
+; Be careful, this setting controls the database structure updates
+churchtools_version=2.57
+
+home = main/home.php
+home/ajax = main/home.php
+home/memberlist = main/home.php
+home/memberlist_printview = main/home.php
+home/memberlist_settings = main/home.php
+
+cron = main/cron.php
+login = main/login.php
+login/newpwd = main/login.php
+logout = main/logout.php
+profile = main/profile.php
+simulate = main/simulate.php
+admin = main/admin.php
+admin/uploadFile = main/admin.php
+admin/ajax = main/admin.php
+about = main/about.php
+about/ajax=main/about.php
+
+page_with_noauth[] = cron
+page_with_noauth[] = about

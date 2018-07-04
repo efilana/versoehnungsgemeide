@@ -1,0 +1,1 @@
+Drupal.locale = { 'pluralFormula': function ($n) { return Number(($n!=1)); }, 'strings': {"":{"Edit":"Bearbeiten","Configure":"Konfigurieren","Done":"Fertig","Show shortcuts":"Verkn\u00fcpfungen anzeigen","Customize dashboard":"Dashboard anpassen","@title dialog":"@title Dialog","Hide shortcuts":"Verkn\u00fcpfungen ausblenden"}} };
